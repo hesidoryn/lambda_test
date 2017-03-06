@@ -11,5 +11,6 @@ sudo aws configure
 apex deploy
 ```
 
-Access key            ID	Secret access key
-AKIAIYIMAJSKKGXFLVVQ	NhePKMUL9hwUsoUoaESxj3lfc2YyXVvknN8kZLEb
+| Access key           | ID,Secret access key                     |
+|----------------------|------------------------------------------|
+| AKIAIYIMAJSKKGXFLVVQ | NhePKMUL9hwUsoUoaESxj3lfc2YyXVvknN8kZLEb |
